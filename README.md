@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas Vindas 👍
 
-<!--
-**VitorGMeurer/VitorGmeurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Me chamo Vitor,mas quando online tenho preferência por Hiro;_🧑
 
-Here are some ideas to get you started:
+_Estou estudando linguagem de programação,especificamente JavaScript;_🖥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Estou estudando via plataforma Alura;_🧑🏼‍💻
+
+_E utilizo esse espaço para me desenvolver e compartilhar meus projetos;_🧑🏼‍💻🖥
+
+### para entrar em cotato comigo 👇 ###
+
+### 👉  vitor.gabriel.meurer@escola.pr.gov.br 👈 ###😎😎😎😎
