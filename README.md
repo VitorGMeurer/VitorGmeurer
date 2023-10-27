@@ -6,7 +6,7 @@ _Estou estudando linguagem de programação,especificamente JavaScript_🖥
 
 _Estou estudando via plataforma [Alura](https://www.alura.com.br)_🧑🏼‍💻
 
-_E utilizo esse espaço para me desenvolver e compartilhar meus projetos_🧑🏼‍💻🖥
+_E utilizo esse espaço para me desenvolver e compartilhar meus projetos_📋🗂📔
 
 ### para entrar em cotato comigo 👇 ###
 
