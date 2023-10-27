@@ -2,6 +2,8 @@
 
 _Me chamo Vitor,mas quando online tenho preferência por Hiro_🧑
 
+_Sou estudante do 1 ano do ensino médio_📖🖊🧒🏻
+
 _Estou estudando linguagem de programação,especificamente JavaScript_🖥
 
 _Estou estudando via plataforma [Alura](https://www.alura.com.br)_🧑🏼‍💻
